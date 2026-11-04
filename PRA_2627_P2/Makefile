@@ -3,3 +3,4 @@ all:
 
 clean:
 	rm -f practica2
+# Practica 2
